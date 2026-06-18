@@ -1,0 +1,6 @@
+{
+  "name": "Saisie des Notes de Stage",
+  "description": "Application web de saisie des notes de stage L3 MIASHS. Données excel stockées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
